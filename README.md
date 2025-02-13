@@ -1,6 +1,6 @@
 # Creation d'une affichage 3d en react
 
-Découvrez le ici [Create React App](https://x-jonica.github.io/app-3d-react/).
+Découvrez le ici [app-3d-react](https://x-jonica.github.io/app-3d-react/).
 
 ## Available Scripts
 
